@@ -730,7 +730,7 @@ async def on_message(message):
 
 
 keep_alive()
-token = "NTE4NDEzMTYxODEzMjQ1OTYz.XYU3EQ.GJfO5QIfxng7mWdc5l1IsvgibXQ"
+token = "haha"
 client.run(token)
 
 
